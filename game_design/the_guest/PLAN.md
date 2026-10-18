@@ -283,8 +283,8 @@ characters, text, watermark, logo, busy background, dramatic shadows on characte
 ```
 [STYLE], wide establishing shot of a quiet suburban street on a sunny afternoon, two houses facing
 each other across the road: on the left a small cozy cream-colored house with a white picket fence
-(player's house), on the right a tall, narrow, unsettling two-story house with a steep roof, an attic
-dormer window and a pointed metal spire on top, dark teal walls with peeling paint, boarded windows on
+(player's house), on the right a tall, narrow, unsettling two-story house with a steep roof, a small attic
+tower with a narrow cornice ledge around it and a pointed metal spire on the very top, dark teal walls with peeling paint, boarded windows on
 the ground floor, an overgrown lawn, an old rusty van parked in the driveway, warm sunlight contrasting
 with the gloomy neighbor house
 ```
@@ -370,14 +370,15 @@ drums on the front and a keyhole, rust and scratches, a single hanging bulb, dus
 **Комната с лампочками и кровавыми цифрами**
 ```
 [STYLE], interior, dark storage room full of stacked cardboard boxes, four empty wall lamp sockets on
-two opposite walls, numbers crudely written in red paint on the wall barely visible in the dark, a
+two opposite walls, a few loose light bulbs scattered around the room on shelves, in boxes and under a
+table, numbers crudely written in red paint on the wall barely visible in the dark, a
 torn note on the floor behind boxes, eerie atmosphere, flashlight-like light
 ```
 
 **Подвал с электрощитком**
 ```
 [STYLE], interior, damp basement of an old house, a large vintage electrical fuse box on a brick wall
-with an empty fuse slot and sparking wires, pipes along the ceiling, old furniture covered with sheets,
+with an empty fuse slot, a big knife-switch lever beside it and sparking wires, pipes along the ceiling, old furniture covered with sheets,
 a water heater, cold blue and green light, puddles on concrete floor
 ```
 
@@ -387,7 +388,8 @@ a water heater, cold blue and green light, puddles on concrete floor
 occupying one wall: eight small CRT monitors in a row, many glowing lamps, dials, antennas, a panel
 with eight big toggle switches below the monitors and three red indicator lamps on top, on the left a
 small red metal box behind a wire grill, near the entrance an old wardrobe built into the wall and
-nailed shut with planks, a dormer window, dust, cables everywhere, mysterious mad-scientist mood
+nailed shut with planks, a small attic tower with a broken hole in its wall leading outside to a
+narrow roof ledge, dust, cables everywhere, mysterious mad-scientist mood
 ```
 
 **Закрытый подвал — комната видеонаблюдения (финал)**
